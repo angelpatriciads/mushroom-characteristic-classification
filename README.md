@@ -3,7 +3,7 @@
 #### -- Project Status: Completed
 
 ## Project Objective
-Create a deep neural network to perform the process classification of mushrooms based on their characteristic and using hyperparameter tuning to get the best model. Then, do analysis on accuracy, precision, recall and, f1-score of the model and also determine the features that are strongly suspected of being related with toxic or not a mushroom to be included in the model.
+Create a deep neural network to perform the process classification of mushrooms characteristic and using hyperparameter tuning to get the best model. Then, do analysis on accuracy, precision, recall and, f1-score of the model and also determine the features that are strongly suspected of being related with toxics of a mushroom.
 
 ### Methods Used
 * Deep Learning
